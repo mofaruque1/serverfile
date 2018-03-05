@@ -1,0 +1,28 @@
+
+
+<template>
+    <style>
+    </style>    
+</template>
+<script>
+(function(){
+
+    var tmpl = document.currentScript.ownerDocument.querySelector('template');
+    var thatDoc = document;
+    var Element = Object.create(HTMLElement.prototype);
+    var shadowRoot;
+
+    Element.createdCallback = function(){
+        shadowRoot = this.createShadowRoot();
+        shadowRoot.innerHTML = "<p>I am a shadow</p>";
+        var clone = thatDoc.importNode(tmpl.content, true);
+        shadowRoot.appendChild(clone);
+
+    }
+
+    thatDoc.registerElement('open-calculator',{prototype:Element});
+
+
+
+})()
+</script>
