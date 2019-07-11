@@ -1,0 +1,624 @@
+{
+    "planID": "sku910331",
+    "externalId": null,
+    "sharingType": "both",
+    "planCategory": {
+        "en": "",
+        "fr": ""
+    },
+    "planType": "voiceAndData",
+    "planSubTypeTitle": null,
+    "planSubTypeId": null,
+    "planInfoCode": null,
+    "planTitleCode": null,
+    "planName": null,
+    "planSku": "sku910331",
+    "planCost": 110.0,
+    "planSalePrice": 0.0,
+    "socNumber": "CON24223Y",
+    "deviceExternalId": "S9PLGRY",
+    "totalCost": 123.0,
+    "addonCost": 13.0,
+    "averageUsage": "Unknown",
+    "discount": 0.0,
+    "featureGroupList": [
+        {
+            "featureGroup": {
+                "label": {
+                    "en": "Data",
+                    "fr": "Données"
+                },
+                "labelCode": null,
+                "featureList": [
+                    {
+                        "en": "1 GB",
+                        "fr": "1 Go",
+                        "featureKey": "DATAUSAGE",
+                        "data": null,
+                        "definitionInd": false,
+                        "duration": null,
+                        "skuId": null,
+                        "featureDefDisplayName": null,
+                        "socCode": null
+                    },
+                    {
+                        "en": "GB",
+                        "fr": "Go",
+                        "featureKey": "Regular",
+                        "data": "2",
+                        "definitionInd": false,
+                        "duration": "0",
+                        "skuId": null,
+                        "featureDefDisplayName": null,
+                        "socCode": null
+                    },
+                    {
+                        "en": "GB",
+                        "fr": "Go",
+                        "featureKey": "Regular",
+                        "data": "2",
+                        "definitionInd": false,
+                        "duration": "0",
+                        "skuId": null,
+                        "featureDefDisplayName": null,
+                        "socCode": null
+                    },
+                    {
+                        "en": "5 GB",
+                        "fr": "5 Go",
+                        "featureKey": "BONUSINCLUSIVEDATA",
+                        "data": null,
+                        "definitionInd": false,
+                        "duration": null,
+                        "skuId": null,
+                        "featureDefDisplayName": null,
+                        "socCode": null
+                    },
+                    {
+                        "en": "Overage Rate : $7/100 MB",
+                        "fr": "Utilisation excédentaire : 7 $ pour 100 Mo",
+                        "featureKey": "OVERAGERATE",
+                        "data": null,
+                        "definitionInd": false,
+                        "duration": null,
+                        "skuId": null,
+                        "featureDefDisplayName": null,
+                        "socCode": null
+                    }
+                ]
+            }
+        },
+        {
+            "featureGroup": {
+                "label": {
+                    "en": "Talk ",
+                    "fr": "Appels"
+                },
+                "labelCode": null,
+                "featureList": [
+                    {
+                        "en": "Unlimited Canada-wide Calling",
+                        "fr": "Appels illimités partout au Canada",
+                        "featureKey": "UnlimitedCanadaWideCalling",
+                        "data": null,
+                        "definitionInd": false,
+                        "duration": null,
+                        "skuId": null,
+                        "featureDefDisplayName": null,
+                        "socCode": null
+                    }
+                ]
+            }
+        },
+        {
+            "featureGroup": {
+                "label": {
+                    "en": "Text",
+                    "fr": "Textos"
+                },
+                "labelCode": null,
+                "featureList": [
+                    {
+                        "en": "Unlimited CanadaWide Sent & Received Text, Picture & Video Messages",
+                        "fr": "Messages  texte, photo et vidéo entrants et sortants ILLIMITÉS partout au Canada",
+                        "featureKey": "TextUsage",
+                        "data": null,
+                        "definitionInd": false,
+                        "duration": null,
+                        "skuId": null,
+                        "featureDefDisplayName": null,
+                        "socCode": null
+                    }
+                ]
+            }
+        },
+        {
+            "featureGroup": {
+                "label": {
+                    "en": "Additional Plan Features",
+                    "fr": "Caractéristiques du Forfait"
+                },
+                "labelCode": "PPC_ADDITIONAL_FEATURES",
+                "featureList": [
+                    {
+                        "en": "Legacy",
+                        "fr": "Legacy",
+                        "featureKey": "legacy",
+                        "data": null,
+                        "definitionInd": true,
+                        "duration": null,
+                        "skuId": null,
+                        "featureDefDisplayName": null,
+                        "socCode": null
+                    },
+                    {
+                        "en": "Call Display with Name Display",
+                        "fr": " Affichage des appels et du nom",
+                        "featureKey": "CallDisplay_NameDisplay",
+                        "data": null,
+                        "definitionInd": true,
+                        "duration": null,
+                        "skuId": null,
+                        "featureDefDisplayName": null,
+                        "socCode": null
+                    },
+                    {
+                        "en": "2500 Call Forwarding Minutes",
+                        "fr": "2 500 minutes de Renvoi d'appels",
+                        "featureKey": "2500CallForwardingMinutes",
+                        "data": null,
+                        "definitionInd": true,
+                        "duration": null,
+                        "skuId": null,
+                        "featureDefDisplayName": null,
+                        "socCode": null
+                    },
+                    {
+                        "en": "Conference Calling",
+                        "fr": "Conférence téléphonique",
+                        "featureKey": "AdditionalPlanFeatures",
+                        "data": null,
+                        "definitionInd": true,
+                        "duration": null,
+                        "skuId": null,
+                        "featureDefDisplayName": null,
+                        "socCode": null
+                    },
+                    {
+                        "en": "Call Waiting",
+                        "fr": "Appel en attente",
+                        "featureKey": "AdditionalPlanFeatures",
+                        "data": null,
+                        "definitionInd": true,
+                        "duration": null,
+                        "skuId": null,
+                        "featureDefDisplayName": null,
+                        "socCode": null
+                    },
+                    {
+                        "en": "Worry-free data management",
+                        "fr": "Gestion des données sans souci",
+                        "featureKey": "WorryFreDataManagement",
+                        "data": null,
+                        "definitionInd": true,
+                        "duration": null,
+                        "skuId": null,
+                        "featureDefDisplayName": null,
+                        "socCode": null
+                    },
+                    {
+                        "en": "Enhanced Voicemail",
+                        "fr": "Messagerie vocale évoluée",
+                        "featureKey": "EnhancedVoicemail",
+                        "data": null,
+                        "definitionInd": true,
+                        "duration": null,
+                        "skuId": null,
+                        "featureDefDisplayName": null,
+                        "socCode": null
+                    }
+                ]
+            }
+        }
+    ],
+    "term": "24",
+    "planTitle": {
+        "en": "Share Everything 1GB-Prem+Tab",
+        "fr": "Forfait Partagez tout 1Go-Le Standard+"
+    },
+    "planRecommendationTxt": null,
+    "planInformationTxt": null,
+    "planInformationTitle": null,
+    "rank": 9000,
+    "planCategoryCode": "PREMPLUSTAB",
+    "deviceSku": "sku890619",
+    "primaryMsf": false,
+    "priceFrequency": null,
+    "canadaWide": true,
+    "data": true,
+    "planTargetCode": null,
+    "sortPriority": 9111.0,
+    "featuresCmsDetailsEN": [
+        {
+            "includedSpecialFeatures": {
+                "featuredetail": [
+                    {
+                        "legalreferenceid": "",
+                        "image": "/cms/ute/rogers/consumer/BFA/images/en/roam.png",
+                        "description": "",
+                        "title": "Roam Like Home",
+                        "section": null,
+                        "sequence": null,
+                        "tooltip": null
+                    }
+                ],
+                "featureheader": "You also get:"
+            },
+            "name": "includedSpecialFeatures"
+        },
+        {
+            "includedSpecialFeatures": {
+                "featuredetail": [
+                    {
+                        "legalreferenceid": "",
+                        "image": "",
+                        "description": "",
+                        "title": "",
+                        "section": null,
+                        "sequence": null,
+                        "tooltip": null
+                    }
+                ],
+                "featureheader": ""
+            },
+            "name": "availableThirdPartyFeatures"
+        }
+    ],
+    "featuresCmsDetailsFR": [
+        {
+            "includedSpecialFeatures": {
+                "featuredetail": [
+                    {
+                        "legalreferenceid": "",
+                        "image": "/cms/ute/rogers/consumer/BFA/images/fr/roam.png",
+                        "description": "",
+                        "title": "Partout Chez Vous",
+                        "section": null,
+                        "sequence": null,
+                        "tooltip": null
+                    }
+                ],
+                "featureheader": "Vous obtenez aussi :"
+            },
+            "name": "includedSpecialFeatures"
+        },
+        {
+            "includedSpecialFeatures": {
+                "featuredetail": [
+                    {
+                        "legalreferenceid": "",
+                        "image": "",
+                        "description": "",
+                        "title": "",
+                        "section": null,
+                        "sequence": null,
+                        "tooltip": null
+                    }
+                ],
+                "featureheader": ""
+            },
+            "name": "availableThirdPartyFeatures"
+        }
+    ],
+    "planCmsDetailsEN": [
+        {
+            "includedSpecialFeatures": {
+                "featuredetail": [
+                    {
+                        "legalreferenceid": "",
+                        "image": "/cms/ute/rogers/consumer/BFA/images/en/roam.png",
+                        "description": "",
+                        "title": "Roam Like Home",
+                        "section": null,
+                        "sequence": null,
+                        "tooltip": null
+                    }
+                ],
+                "featureheader": "All shared plans also get: "
+            },
+            "name": "highlightedFeatures"
+        },
+        {
+            "includedSpecialFeatures": {
+                "featuredetail": [
+                    {
+                        "legalreferenceid": "",
+                        "image": "",
+                        "description": "",
+                        "title": "",
+                        "section": null,
+                        "sequence": null,
+                        "tooltip": null
+                    }
+                ],
+                "featureheader": ""
+            },
+            "name": "highlightedThirdPartyFeatures"
+        },
+        {
+            "includedSpecialFeatures": {
+                "featuredetail": [
+                    {
+                        "legalreferenceid": "",
+                        "image": "",
+                        "description": "",
+                        "title": "Unlimited Canada-wide Calling<sup>2</sup>",
+                        "section": null,
+                        "sequence": null,
+                        "tooltip": null
+                    },
+                    {
+                        "legalreferenceid": "",
+                        "image": "",
+                        "description": "",
+                        "title": "Unlimited Canada-Wide Messaging<sup>1</sup>",
+                        "section": null,
+                        "sequence": null,
+                        "tooltip": null
+                    },
+                    {
+                        "legalreferenceid": "",
+                        "image": "",
+                        "description": "",
+                        "title": "Call Display with Name Display<sup>4</sup>",
+                        "section": null,
+                        "sequence": null,
+                        "tooltip": null
+                    },
+                    {
+                        "legalreferenceid": "",
+                        "image": "",
+                        "description": "",
+                        "title": "Enhanced Voicemail<sup>5</sup>",
+                        "section": null,
+                        "sequence": null,
+                        "tooltip": null
+                    },
+                    {
+                        "legalreferenceid": "",
+                        "image": "",
+                        "description": "",
+                        "title": "Call Waiting ",
+                        "section": null,
+                        "sequence": null,
+                        "tooltip": null
+                    },
+                    {
+                        "legalreferenceid": "",
+                        "image": "",
+                        "description": "",
+                        "title": "Group Calling",
+                        "section": null,
+                        "sequence": null,
+                        "tooltip": null
+                    },
+                    {
+                        "legalreferenceid": "",
+                        "image": "",
+                        "description": "",
+                        "title": "2500 Call Forwarding Minutes<sup>6</sup> ",
+                        "section": null,
+                        "sequence": null,
+                        "tooltip": null
+                    },
+                    {
+                        "legalreferenceid": "",
+                        "image": "",
+                        "description": "",
+                        "title": "Stream Saver<sub>TM</sub><sup>7</sup>",
+                        "section": null,
+                        "sequence": null,
+                        "tooltip": null
+                    },
+                    {
+                        "legalreferenceid": "",
+                        "image": "",
+                        "description": "",
+                        "title": "Overage Rate $10/100MB",
+                        "section": null,
+                        "sequence": null,
+                        "tooltip": null
+                    }
+                ],
+                "featureheader": "PLUS:"
+            },
+            "name": "additionalFeatures"
+        }
+    ],
+    "planCmsDetailsFR": [
+        {
+            "includedSpecialFeatures": {
+                "featuredetail": [
+                    {
+                        "legalreferenceid": "",
+                        "image": "/cms/ute/rogers/consumer/BFA/images/fr/roam.png",
+                        "description": "",
+                        "title": "Partout Chez Vous",
+                        "section": null,
+                        "sequence": null,
+                        "tooltip": null
+                    }
+                ],
+                "featureheader": "Tous les forfaits partag&eacute;s obtiennent aussi :"
+            },
+            "name": "highlightedFeatures"
+        },
+        {
+            "includedSpecialFeatures": {
+                "featuredetail": [
+                    {
+                        "legalreferenceid": "",
+                        "image": "",
+                        "description": "",
+                        "title": "",
+                        "section": null,
+                        "sequence": null,
+                        "tooltip": null
+                    }
+                ],
+                "featureheader": ""
+            },
+            "name": "highlightedThirdPartyFeatures"
+        },
+        {
+            "includedSpecialFeatures": {
+                "featuredetail": [
+                    {
+                        "legalreferenceid": "",
+                        "image": "",
+                        "description": "",
+                        "title": "Appels illimit&#233;s partout au Canada<sup>2</sup>",
+                        "section": null,
+                        "sequence": null,
+                        "tooltip": null
+                    },
+                    {
+                        "legalreferenceid": "",
+                        "image": "",
+                        "description": "",
+                        "title": "Messages Illimit&#233;s<sup>1</sup>&#160;Partout au Canada",
+                        "section": null,
+                        "sequence": null,
+                        "tooltip": null
+                    },
+                    {
+                        "legalreferenceid": "",
+                        "image": "",
+                        "description": "",
+                        "title": "Affichage des appels avec Affichage du nom<sup>4</sup>",
+                        "section": null,
+                        "sequence": null,
+                        "tooltip": null
+                    },
+                    {
+                        "legalreferenceid": "",
+                        "image": "",
+                        "description": "",
+                        "title": "Messagerie vocale evolu&#233;e<sup>5</sup>",
+                        "section": null,
+                        "sequence": null,
+                        "tooltip": null
+                    },
+                    {
+                        "legalreferenceid": "",
+                        "image": "",
+                        "description": "",
+                        "title": "Appel en attente",
+                        "section": null,
+                        "sequence": null,
+                        "tooltip": null
+                    },
+                    {
+                        "legalreferenceid": "",
+                        "image": "",
+                        "description": "",
+                        "title": "Appel de groupe",
+                        "section": null,
+                        "sequence": null,
+                        "tooltip": null
+                    },
+                    {
+                        "legalreferenceid": "",
+                        "image": "",
+                        "description": "",
+                        "title": "2500 minutes de Renvoi d&#8217;appel<sup>6</sup> ",
+                        "section": null,
+                        "sequence": null,
+                        "tooltip": null
+                    },
+                    {
+                        "legalreferenceid": "",
+                        "image": "",
+                        "description": "",
+                        "title": "Maximiseur de donn&#233;es<sub>MC</sub><sup>7</sup>",
+                        "section": null,
+                        "sequence": null,
+                        "tooltip": null
+                    },
+                    {
+                        "legalreferenceid": "",
+                        "image": "",
+                        "description": "",
+                        "title": "Utilisation exc&#233;dentaire : 10 $ pour 100 Mo",
+                        "section": null,
+                        "sequence": null,
+                        "tooltip": null
+                    }
+                ],
+                "featureheader": "PLUS :"
+            },
+            "name": "additionalFeatures"
+        }
+    ],
+    "lineFees": [
+        {
+            "ctn": "4168370550",
+            "planCost": 85.0
+        },
+        {
+            "ctn": "4169992311",
+            "planCost": 95.0
+        }
+    ],
+    "ctn": "6477072754",
+    "typeName": "sharedPricePlanSoc",
+    "inContract": true,
+    "discountable": false,
+    "addonList": null,
+    "planCategory_DisplayName": "Premium+ Tab",
+    "planCategory_DisplayName_Fr": "Option Standard+",
+    "planFeaturesMap": null,
+    "cachedResultInfo": null,
+    "toBeCached": true,
+    "retentionPlan": false,
+    "planCategorydefault": false,
+    "salePricePresent": false,
+    "planDiscountAmount": 0.0,
+    "originalPlanCategory": "PREMPLUSTAB",
+    "categoryCode": null,
+    "callingOption": {
+        "categoryCode": "unlimited_cad_calling",
+        "rank": "1",
+        "displayNameFr": "Unlimited Canada-wide Calling_FR",
+        "displayName": "Unlimited Canada-wide Calling",
+        "default": true
+    },
+    "dataBonus": true,
+    "ribbonDetail": null,
+    "planDiscountList": null,
+    "planStrikePrice": 0.0,
+    "ppcRibbonDetail": null,
+    "bonusList": [
+        {
+            "addonType": "Regular",
+            "duration": "0",
+            "effectivedate": "28-05-2018",
+            "en": "2 GB",
+            "fr": "2 Go"
+        },
+        {
+            "addonType": "Regular",
+            "duration": "0",
+            "effectivedate": "28-05-2018",
+            "en": "2 GB",
+            "fr": "2 Go"
+        }
+    ],
+    "hasTargetedOffers": false,
+    "planSubtype": null,
+    "aaldataBonus": false,
+    "planExpired": true,
+    "fidoPPCAllowed": false,
+    "homePhonePlan": false,
+    "hupEligible": false
+}
