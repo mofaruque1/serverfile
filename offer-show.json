@@ -1,33 +1,32 @@
 {
-    "BAN": "10001",
-    "subscribers":[
-        {
-            "customer_phone_number": "4162443001",
-            "current_plan": {
-                "soc": "RFX-001",
-            },
-            "new_plan": {
-                "soc": "NFX-001",
-            }
-        },
-        {
-            "customer_phone_number": "4162443002",
-            "current_plan": {
-                "soc": "RFX-001",
-            },
-            "new_plan": {
-                "soc": "NFX-002",
-            }
-        },
-        {
-            "customer_phone_number": "4162443003",
-            "current_plan": {
-                "soc": "RFX-001",
-            },
-            "new_plan": {
-                "soc": "NFX-003",
-            }
-        }
-
-    ]
-} 
+  "BAN": "10001",
+  "subscribers": [
+    {
+      "customer_phone_number": "4162443001",
+      "current_plan": {
+        "soc": "RFX-001"
+      },
+      "new_plan": {
+        "soc": "NFX-001"
+      }
+    },
+    {
+      "customer_phone_number": "4162443002",
+      "current_plan": {
+        "soc": "RFX-001"
+      },
+      "new_plan": {
+        "soc": "NFX-002"
+      }
+    },
+    {
+      "customer_phone_number": "4162443003",
+      "current_plan": {
+        "soc": "RFX-001"
+      },
+      "new_plan": {
+        "soc": "NFX-003"
+      }
+    }
+  ]
+}
