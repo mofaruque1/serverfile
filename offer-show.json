@@ -1,8 +1,8 @@
 {
-  "BAN": "788411361",
+  "BAN": "916442338",
   "subscribers": [
     {
-      "customer_phone_number": "6477072754",
+      "customer_phone_number": "4168160897",
       "current_plan": {
         "soc": "RFX-001"
       },
@@ -11,16 +11,7 @@
       }
     },
     {
-      "customer_phone_number": "4168370550",
-      "current_plan": {
-        "soc": "RFX-001"
-      },
-      "new_plan": {
-        "soc": "CONM422CX"
-      }
-    },
-    {
-      "customer_phone_number": "4169992311",
+      "customer_phone_number": "4168160892",
       "current_plan": {
         "soc": "RFX-001"
       },
