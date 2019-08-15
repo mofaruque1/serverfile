@@ -1,19 +1,10 @@
 {
-  "BAN": "916442338",
+  "BAN": "916450786",
   "subscribers": [
     {
-      "customer_phone_number": "4168160897",
+      "customer_phone_number": "4168161250",
       "current_plan": {
-        "soc": "CCP2422BP"
-      },
-      "new_plan": {
-        "soc": "CONM422CS"
-      }
-    },
-    {
-      "customer_phone_number": "4168160892",
-      "current_plan": {
-        "soc": "CON2422X3"
+        "soc": "CON2422YK"
       },
       "new_plan": {
         "soc": "CONM422CS"
