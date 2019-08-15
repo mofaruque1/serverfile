@@ -1,31 +1,31 @@
 {
-  "BAN": "10001",
+  "BAN": "788411361",
   "subscribers": [
     {
-      "customer_phone_number": "4162443001",
+      "customer_phone_number": "6477072754",
       "current_plan": {
         "soc": "RFX-001"
       },
       "new_plan": {
-        "soc": "NFX-001"
+        "soc": "CONM422CT"
       }
     },
     {
-      "customer_phone_number": "4162443002",
+      "customer_phone_number": "4168370550",
       "current_plan": {
         "soc": "RFX-001"
       },
       "new_plan": {
-        "soc": "NFX-002"
+        "soc": "CONM422CX"
       }
     },
     {
-      "customer_phone_number": "4162443003",
+      "customer_phone_number": "4169992311",
       "current_plan": {
         "soc": "RFX-001"
       },
       "new_plan": {
-        "soc": "NFX-003"
+        "soc": "CONM422CX"
       }
     }
   ]
