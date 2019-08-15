@@ -1,0 +1,18 @@
+{
+    "is_active": true,
+    "is_offer_accepted": false,
+    "is_order_submitted": false,
+    "is_fully_constructed": true,
+    "is_queued": true,
+    "is_queue_selected": false,
+    "last_changes_comments": "Inserting a new Customer record [10001]",
+    "last_changes_commited_by": "CustomerSDK::put()",
+    "offer_show_counter": 17,
+    "offer_submit_attempt_counter": 0,
+    "creation_timestamp": "2019-07-21T20:09:50.736Z",
+    "last_updated_timestamp": "2019-07-21T22:06:41.536Z",
+    "offer_accepted_timestamp": "2019-07-21T22:06:41.536Z",
+    "offer_show_last_updated_timestamp": "2019-07-21T22:06:22.835Z",
+    "queue_add_timestamp": "2019-07-21T22:06:41.536Z",
+    "version": 22
+}
