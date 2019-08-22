@@ -7,7 +7,7 @@
         "soc": "CON2422X3"
       },
       "new_plan": {
-        "soc": "CONM422CS"
+        "soc": "CONM422EN"
       }
     },
     {
@@ -16,7 +16,7 @@
         "soc": "CON2422X3"
       },
       "new_plan": {
-        "soc": "CONM422CS"
+        "soc": "CON242347"
       }
     },
     {
@@ -25,7 +25,7 @@
         "soc": "CCP2422BP"
       },
       "new_plan": {
-        "soc": "CONM422CS"
+        "soc": "CON242346"
       }
     }
   ]
